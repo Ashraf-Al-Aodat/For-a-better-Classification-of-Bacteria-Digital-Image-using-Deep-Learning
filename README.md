@@ -1,4 +1,4 @@
-Xception Architecture to classify species and genera of bacteria. a 5-Fold cross validation was used to validate the performance of the model, An average of **99.71%** accuracy has been achieved, competing and even beating published State-of-The-Art models. The Keras library was used with Tensorflow backend.
+Xception Architecture to classify species and genera of bacteria. a Stratified-5-Folds cross validation was used to validate the performance of the model, An average of **99.71%** accuracy has been achieved, competing and even beating published State-of-The-Art models. The Keras library was used with Tensorflow backend.
 
 The accuracy of the folds..
 |Fold|Validation accuracy (%)|
