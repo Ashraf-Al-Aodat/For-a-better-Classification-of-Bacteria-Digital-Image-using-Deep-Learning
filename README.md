@@ -217,7 +217,7 @@ This project made use of the Digital Image of Bacterial Species, found here: htt
   </tr>
 
   <tr>
-    <td colspan="2"><b>Total</b></td>
+    <td colspan="2" style="text-align:center"><b>Total</b></td>
     <td><b>689</b></td>
   </tr>
 </table>
