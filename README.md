@@ -16,36 +16,37 @@ This project made use of the Digital Image of Bacterial Species, found here: htt
 |1|Lactobacillus johnsonii|20|
 |2|Listeria monocytogenes|22|
 |3|Propionibacterium acnes|23|
-|1|Veionella|22|
-|1|Staphylococcus aureus|20|
-|1|Enterococcus faecium|20|
-|1|Lactobacillus gasseri|20|
-|1|Streptococcus agalactiae|20|
-|1|Actinomyces Israeli|23|
-|1|Fusobacterium|23|
-|1|Pseudomonas aeruginosa|20|
-|1|Lactobacillus plantarum|20|
-|1|Lactobacillus reuteri|20|
-|1|Clostridium perfringens|23|
-|1|Neisseria gonorrhoeae|23|
-|1|Proteus|20|
-|1|Acinetobacter baumanii|20|
-|1|Lactobacillus casei|20|
-|1|Bacteroides fragilis|23|
-|1|Porfyromonas gingivalis|23|
-|1|Escherichia coli|20|
-|1|Lactobacillus crispatus|20|
-|1|Bifidobacterium spp|23|
-|1|Staphylococcus saprophiticus|20|
-|1|Lactobacillus salivarius|20|
-|1|Lactobacillus delbrueckii|20|
-|1|Lactobacillus jehnsenii|20|
-|1|Candida albicans|20|
-|1|Lactobacillus rhamnosus|20|
-|1|Micrococcus spp|21|
-|1|Lactobacillus paracasei|20|
-|1|Enterococcus faecalis|20|
-|Total|689|
+|4|Veionella|22|
+|5|Staphylococcus aureus|20|
+|6|Enterococcus faecium|20|
+|7|Lactobacillus gasseri|20|
+|8|Streptococcus agalactiae|20|
+|9|Actinomyces Israeli|23|
+|10|Fusobacterium|23|
+|11|Pseudomonas aeruginosa|20|
+|12|Lactobacillus plantarum|20|
+|13|Lactobacillus reuteri|20|
+|14|Clostridium perfringens|23|
+|15|Neisseria gonorrhoeae|23|
+|16|Proteus|20|
+|17|Acinetobacter baumanii|20|
+|18|Lactobacillus casei|20|
+|19|Bacteroides fragilis|23|
+|20|Porfyromonas gingivalis|23|
+|21|Escherichia coli|20|
+|22|Lactobacillus crispatus|20|
+|23|Bifidobacterium spp|23|
+|24|Staphylococcus epidermidis|20|
+|25|Staphylococcus saprophiticus|20|
+|26|Lactobacillus salivarius|20|
+|27|Lactobacillus delbrueckii|20|
+|28|Lactobacillus jehnsenii|20|
+|29|Candida albicans|20|
+|30|Lactobacillus rhamnosus|20|
+|31|Micrococcus spp|21|
+|32|Lactobacillus paracasei|20|
+|33|Enterococcus faecalis|20|
+|Span <td colspan=2>Total|689|
 
 ## The Model (Xception):
 Xception Architecture to classify species and genera of bacteria. a Stratified-5-Folds cross validation was used to validate the performance of the model, An average of **99.71%** accuracy has been achieved, competing and even beating published State-of-The-Art models. The Keras library was used with Tensorflow backend.
