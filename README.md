@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/Scientists-Have-Discovered-A-Bacteria-Species-Thats-Feeds-Upon-Electricity-12-640x384.jpg" raw="true" alt="For a better Classification of Bacteria Digital Image using Deep Learning">
-</p>
+
+ <img src="assets/Scientists-Have-Discovered-A-Bacteria-Species-Thats-Feeds-Upon-Electricity-12-640x384.jpg" raw="true" alt="For a better Classification of Bacteria Digital Image using Deep Learning"/>
+
  
 # Bacteria Digital Image Classification
 
