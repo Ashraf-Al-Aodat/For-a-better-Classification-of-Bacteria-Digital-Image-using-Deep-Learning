@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" raw="true" alt="For a better Classification of Bacteria Digital Image using Deep Learning"
+  <img src="assets/Lactobacillus.crispatus_0001.tif" raw="true" alt="For a better Classification of Bacteria Digital Image using Deep Learning"
        width="250">
  </p>
  
