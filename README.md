@@ -11,40 +11,40 @@ Academic research in the field of **Deep Learning (CNN)**
 This project made use of the Digital Image of Bacterial Species, found here: http://misztal.edu.pl/software/databases/dibas/ . There are 33 classes of bacteria with around 20 examples each. A copy of the dataset has been uploaded to google drive; can be found here https://drive.google.com/drive/folders/1BlLxXkBJyz3nJojqsFmztc-SngMdFF4J?usp=sharing 
 
 
-|Species|Number|
-|:---:|:---:|
-|Lactobacillus johnsonii|20|
-|Listeria monocytogenes|22|
-|Propionibacterium acnes|23|
-|Veionella|22|
-|Staphylococcus aureus|20|
-|Enterococcus faecium|20|
-|Lactobacillus gasseri|20|
-|Streptococcus agalactiae|20|
-|Actinomyces Israeli|23|
-|Fusobacterium|23|
-|Pseudomonas aeruginosa|20|
-|Lactobacillus plantarum|20|
-|Lactobacillus reuteri|20|
-|Clostridium perfringens|23|
-|Neisseria gonorrhoeae|23|
-|Proteus|20|
-|Acinetobacter baumanii|20|
-|Lactobacillus casei|20|
-|Bacteroides fragilis|23|
-|Porfyromonas gingivalis|23|
-|Escherichia coli|20|
-|Lactobacillus crispatus|20|
-|Bifidobacterium spp|23|
-|Staphylococcus saprophiticus|20|
-|Lactobacillus salivarius|20|
-|Lactobacillus delbrueckii|20|
-|Lactobacillus jehnsenii|20|
-|Candida albicans|20|
-|Lactobacillus rhamnosus|20|
-|Micrococcus spp|21|
-|Lactobacillus paracasei|20|
-|Enterococcus faecalis|20|
+|#|Species|Count|
+|:---:|:---:|:---:|
+|1|Lactobacillus johnsonii|20|
+|2|Listeria monocytogenes|22|
+|3|Propionibacterium acnes|23|
+|1|Veionella|22|
+|1|Staphylococcus aureus|20|
+|1|Enterococcus faecium|20|
+|1|Lactobacillus gasseri|20|
+|1|Streptococcus agalactiae|20|
+|1|Actinomyces Israeli|23|
+|1|Fusobacterium|23|
+|1|Pseudomonas aeruginosa|20|
+|1|Lactobacillus plantarum|20|
+|1|Lactobacillus reuteri|20|
+|1|Clostridium perfringens|23|
+|1|Neisseria gonorrhoeae|23|
+|1|Proteus|20|
+|1|Acinetobacter baumanii|20|
+|1|Lactobacillus casei|20|
+|1|Bacteroides fragilis|23|
+|1|Porfyromonas gingivalis|23|
+|1|Escherichia coli|20|
+|1|Lactobacillus crispatus|20|
+|1|Bifidobacterium spp|23|
+|1|Staphylococcus saprophiticus|20|
+|1|Lactobacillus salivarius|20|
+|1|Lactobacillus delbrueckii|20|
+|1|Lactobacillus jehnsenii|20|
+|1|Candida albicans|20|
+|1|Lactobacillus rhamnosus|20|
+|1|Micrococcus spp|21|
+|1|Lactobacillus paracasei|20|
+|1|Enterococcus faecalis|20|
 |Total|689|
 
 ## The Model (Xception):
