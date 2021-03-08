@@ -13,7 +13,7 @@ This project made use of the Digital Image of Bacterial Species, found here: htt
 
 <table>
  <tr>
-  <td>#</td>
+  <th>#</th>
   <td>Species</td>
   <td>Count</td>
  </tr>
@@ -227,6 +227,7 @@ This project made use of the Digital Image of Bacterial Species, found here: htt
   <td colspan=2>**Total**</td> 
  <td>**689**</td>
  </tr>
+</Table>
  
  
 ## The Model (Xception):
