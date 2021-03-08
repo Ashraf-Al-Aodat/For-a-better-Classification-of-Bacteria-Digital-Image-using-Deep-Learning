@@ -10,7 +10,7 @@ Academic research in the field of **Deep Learning (CNN)**
 
 This project made use of the Digital Image of Bacterial Species, found here: http://misztal.edu.pl/software/databases/dibas/ . There are 33 classes of bacteria with around 20 examples each. A copy of the dataset has been uploaded to google drive; can be found here https://drive.google.com/drive/folders/1BlLxXkBJyz3nJojqsFmztc-SngMdFF4J?usp=sharing 
 
-
+.center[
 <table>
   <tr>
     <th>#</th>
@@ -221,7 +221,7 @@ This project made use of the Digital Image of Bacterial Species, found here: htt
     <td><b>689</b></td>
   </tr>
 </table>
- 
+ ]
  
 ## The Model (Xception):
 the Xception Architecture has been used to classify the species and genera of bacteria. A Stratified-5-Folds cross validation was used to validate the performance of the model, An average of **99.71%** accuracy has been achieved, competing and even beating published State-of-The-Art models. The Keras library was used with Tensorflow backend.
