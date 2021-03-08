@@ -3,9 +3,9 @@
        width="250">
  </p>
  
-#Bacteria Digital Image Classification
+# Bacteria Digital Image Classification
 
-Academic researh in the field of **Deep Learning (CNN)**
+Academic research in the field of **Deep Learning (CNN)**
 
 ## The Dataset:
 
