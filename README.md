@@ -14,46 +14,221 @@ This project made use of the Digital Image of Bacterial Species, found here: htt
 <table>
  <tr>
   <td>#</td>
-  <td>#</td>
-  <td>#</td>
+  <td>Species</td>
+  <td>Count</td>
  </tr>
-|#|Species|Count|
-|:---:|:---:|:---:|
-|1|Lactobacillus johnsonii|20|
-|2|Listeria monocytogenes|22|
-|3|Propionibacterium acnes|23|
-|4|Veionella|22|
-|5|Staphylococcus aureus|20|
-|6|Enterococcus faecium|20|
-|7|Lactobacillus gasseri|20|
-|8|Streptococcus agalactiae|20|
-|9|Actinomyces Israeli|23|
-|10|Fusobacterium|23|
-|11|Pseudomonas aeruginosa|20|
-|12|Lactobacillus plantarum|20|
-|13|Lactobacillus reuteri|20|
-|14|Clostridium perfringens|23|
-|15|Neisseria gonorrhoeae|23|
-|16|Proteus|20|
-|17|Acinetobacter baumanii|20|
-|18|Lactobacillus casei|20|
-|19|Bacteroides fragilis|23|
-|20|Porfyromonas gingivalis|23|
-|21|Escherichia coli|20|
-|22|Lactobacillus crispatus|20|
-|23|Bifidobacterium spp|23|
-|24|Staphylococcus epidermidis|20|
-|25|Staphylococcus saprophiticus|20|
-|26|Lactobacillus salivarius|20|
-|27|Lactobacillus delbrueckii|20|
-|28|Lactobacillus jehnsenii|20|
-|29|Candida albicans|20|
-|30|Lactobacillus rhamnosus|20|
-|31|Micrococcus spp|21|
-|32|Lactobacillus paracasei|20|
-|33|Enterococcus faecalis|20|
-|>|Total||689|
+ <tr>
+  <td>1</td>
+  <td>Lactobacillus johnsonii</td>
+  <td>20</td>
+ </tr>
+ 
+ <tr>
+  <td>2</td> 
+  <td>Listeria monocytogenes</td> 
+  <td>22</td>
+ </tr>
 
+ <tr>
+  <td>3</td> 
+  <td>Propionibacterium acnes</td> 
+  <td>23</td>
+ </tr>
+ 
+ <tr>
+  <td>4</td> 
+  <td>Propionibacterium acnes</td> 
+  <td>23</td>
+ </tr>
+ 
+ <tr>
+  <td>5</td> 
+  <td>Veionella</td> 
+  <td>22</td>
+ </tr>
+ 
+ <tr>
+  <td>6</td> 
+  <td>Staphylococcus aureus</td> 
+  <td>20</td>
+ </tr>
+ 
+ <tr>
+  <td>7</td> 
+  <td>Enterococcus faecium</td> 
+  <td>20</td>
+ </tr>
+ 
+ <tr>
+  <td>8</td> 
+  <td>Lactobacillus gasseri</td> 
+  <td>20</td>
+ </tr>
+ 
+ <tr>
+  <td>9</td> 
+  <td>Streptococcus agalactiae</td> 
+  <td>20</td>
+ </tr>
+ 
+ <tr>
+  <td>10</td> 
+  <td>Actinomyces Israeli</td> 
+  <td>23</td>
+ </tr>
+ 
+ <tr>
+  <td>11</td> 
+  <td>Fusobacterium</td> 
+  <td>23</td>
+ </tr>
+ 
+ <tr>
+  <td>12</td> 
+  <td>Pseudomonas aeruginosa</td> 
+  <td>20</td>
+ </tr>
+ 
+ <tr>
+  <td>13</td> 
+  <td>Lactobacillus plantarum</td> 
+  <td>20</td>
+ </tr>
+ 
+ <tr>
+  <td>14</td> 
+  <td>Lactobacillus reuteri</td> 
+  <td>20</td>
+ </tr>
+ 
+ <tr>
+  <td>15</td> 
+  <td>Clostridium perfringens</td> 
+  <td>23</td>
+ </tr>
+ 
+ <tr>
+  <td>16</td> 
+  <td>Neisseria gonorrhoeae</td> 
+  <td>23</td>
+ </tr>
+ 
+ <tr>
+  <td>17</td> 
+  <td>Proteus</td> 
+  <td>20</td>
+ </tr>
+ 
+ <tr>
+  <td>18</td> 
+  <td>Acinetobacter baumanii</td> 
+  <td>20</td>
+ </tr>
+ 
+ <tr>
+  <td>19</td> 
+  <td>Lactobacillus casei</td> 
+  <td>20</td>
+ </tr>
+ 
+  
+ <tr>
+  <td>20</td> 
+  <td>Bacteroides fragilis</td> 
+  <td>23</td>
+ </tr>
+  
+ <tr>
+  <td>21</td> 
+  <td>Porfyromonas gingivalis</td> 
+  <td>23</td>
+ </tr>
+  
+ <tr>
+  <td>22</td> 
+  <td>Escherichia coli</td> 
+  <td>20</td>
+ </tr>
+  
+ <tr>
+  <td>23</td> 
+  <td>Lactobacillus crispatus</td> 
+  <td>20</td>
+ </tr>
+  
+ <tr>
+  <td>24</td> 
+  <td>Bifidobacterium spp</td> 
+  <td>23</td>
+ </tr>
+  
+ <tr>
+  <td>25</td> 
+  <td>Staphylococcus epidermidis</td> 
+  <td>20</td>
+ </tr>
+  
+ <tr>
+  <td>26</td> 
+  <td>Staphylococcus saprophiticus</td> 
+  <td>20</td>
+ </tr>
+  
+ <tr>
+  <td>27</td> 
+  <td>Lactobacillus salivarius</td> 
+  <td>20</td>
+ </tr>
+  
+ <tr>
+  <td>28</td> 
+  <td>Lactobacillus delbrueckii</td> 
+  <td>20</td>
+ </tr>
+  
+ <tr>
+  <td>29</td> 
+  <td>Lactobacillus jehnsenii</td> 
+  <td>20</td>
+ </tr>
+ 
+  <tr>
+  <td>30</td> 
+  <td>Candida albicans</td> 
+  <td>20</td>
+ </tr>
+ 
+  <tr>
+  <td>31</td> 
+  <td>Lactobacillus rhamnosus</td> 
+  <td>20</td>
+ </tr>
+ 
+  <tr>
+  <td>32</td> 
+  <td>Micrococcus spp</td> 
+  <td>21</td>
+ </tr>
+ 
+   <tr>
+  <td>33</td> 
+  <td>MLactobacillus paracasei</td> 
+  <td>20</td>
+ </tr>
+ 
+   <tr>
+  <td>34</td> 
+  <td>Enterococcus faecalis</td> 
+  <td>20</td>
+ </tr>
+ 
+  
+   <tr>
+  <td colspan=2>**Total**</td> 
+ <td>**689**</td>
+ </tr>
+ 
+ 
 ## The Model (Xception):
 Xception Architecture to classify species and genera of bacteria. a Stratified-5-Folds cross validation was used to validate the performance of the model, An average of **99.71%** accuracy has been achieved, competing and even beating published State-of-The-Art models. The Keras library was used with Tensorflow backend.
 
