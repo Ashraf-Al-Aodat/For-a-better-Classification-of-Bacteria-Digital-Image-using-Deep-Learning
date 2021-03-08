@@ -46,7 +46,7 @@ This project made use of the Digital Image of Bacterial Species, found here: htt
 |31|Micrococcus spp|21|
 |32|Lactobacillus paracasei|20|
 |33|Enterococcus faecalis|20|
-|<td colspan=2>Total|689|
+|Total||689|
 
 ## The Model (Xception):
 Xception Architecture to classify species and genera of bacteria. a Stratified-5-Folds cross validation was used to validate the performance of the model, An average of **99.71%** accuracy has been achieved, competing and even beating published State-of-The-Art models. The Keras library was used with Tensorflow backend.
