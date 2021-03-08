@@ -224,7 +224,7 @@ This project made use of the Digital Image of Bacterial Species, found here: htt
  
  
 ## The Model (Xception):
-Xception Architecture to classify species and genera of bacteria. a Stratified-5-Folds cross validation was used to validate the performance of the model, An average of **99.71%** accuracy has been achieved, competing and even beating published State-of-The-Art models. The Keras library was used with Tensorflow backend.
+the Xception Architecture has been used to classify the species and genera of bacteria. A Stratified-5-Folds cross validation was used to validate the performance of the model, An average of **99.71%** accuracy has been achieved, competing and even beating published State-of-The-Art models. The Keras library was used with Tensorflow backend.
 
 The accuracy of the folds..
 |Fold|Validation accuracy (%)|
