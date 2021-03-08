@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="assets/Lactobacillus.crispatus_0001.png" raw="true" alt="For a better Classification of Bacteria Digital Image using Deep Learning"
-       width="250">
- </p>
+  <img src="assets/Lactobacillus.crispatus_0001.png" raw="true" alt="For a better Classification of Bacteria Digital Image using Deep Learning">
+</p>
  
 # Bacteria Digital Image Classification
 
